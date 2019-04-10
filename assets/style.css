@@ -1,5 +1,47 @@
+.body{
+    background-image: url("/assets/images/abstract-backlight-black-1010496.jpg");
+    
+}
+.navbar{
+    background-color: gray;
+}
+navbar-text{
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+}
+.resume{
+    background-image: url("https://images.pexels.com/photos/1010496/pexels-photo-1010496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+
 img{
 max-width: 300px;
 max-height: 300px;
+
+}
+.activity{
+    font-size: 16px;
+    font-weight: bold;
+    font-style: oblique;
+   
+}
+.repo{
+    font-size: 14px;
+    font-weight: lighter;
+    font-style: italic;
+    
+}
+.one{
+    border-style: solid;
+    border-color: white;
+
+}
+.two{
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 27px;
+}
+.three{
+    border-style: solid;
+    border-color: white;
+    padding-bottom: 45px;
 
 }
